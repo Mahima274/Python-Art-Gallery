@@ -48,11 +48,11 @@ Animate drawings with smooth transitions
 
 Export drawings as image files
 
-Author
+##Author
 Mahima 
 GitHub: https://github.com/Mahima274
 
-License
+##License
 MIT License
 Copyright (c) 2025 Mahima (Moon)
 You can use, copy, modify, and share this code freely, as long as you give me credit.
