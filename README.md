@@ -52,12 +52,10 @@ Author
 Mahima 
 GitHub: https://github.com/Mahima274
 
+License
 MIT License
-
 Copyright (c) 2025 Mahima (Moon)
-
 You can use, copy, modify, and share this code freely, as long as you give me credit.
-
 This software is provided "as is" without any warranty.
 
 
